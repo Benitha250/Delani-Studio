@@ -51,3 +51,32 @@
 .product-words {
     display: none;
 }
+/*-------Portfolio section-------*/
+#portfolio{
+    text-align: center;
+}
+.card {
+    margin: 10px;
+    position: relative;
+    overflow: hidden;
+}
+.card-deck {
+    padding: 1% 4%;
+}
+
+.card1-words, 
+.card2-words, 
+.card3-words, 
+.card4-words, 
+.card5-words, 
+.card6-words, 
+.card7-words,
+.card8-words{
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 15%;
+}
