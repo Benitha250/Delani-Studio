@@ -26,3 +26,13 @@
     margin-bottom: 50px;
     text-align: center;
 }
+/*-------Services section-------*/
+#services{
+    background-image: url("../imgs/assets/backgrounds/s_image.jpg");
+    background-size: cover;
+    color:white;
+    padding-top: 120px;
+    padding-bottom: 80px;
+    margin-bottom: 50px;
+    text-align: center;
+}
