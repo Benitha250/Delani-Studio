@@ -80,3 +80,45 @@
     background-color: white;
     padding: 15%;
 }
+/*-------Contact us section-------*/
+#contactUs{
+    background-image: url("../imgs/assets/backgrounds/c_image.jpg");
+    background-size: cover;
+    background-position: cover;
+    padding-top: 30px;
+    padding-bottom: 80px;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+.wholeform {
+    position: relative;
+    width: 700px;
+    max-width: 100%;
+    left: 50%;
+    transform: translate(-50%);
+    color: white;
+
+}
+.wholeform input {
+    width: 49%;
+    background: transparent;
+    color: white;
+}
+.wholeform textarea {
+    margin-top: 10px;
+    width: 100%;
+    background: transparent;
+    color: white;
+}
+::placeholder{
+    font-size: 10px;
+    color: white;
+}
+#contactUs h1{
+    color: white;
+}
+#contactUs button{
+    background-color:white;
+    color:black;
+}
