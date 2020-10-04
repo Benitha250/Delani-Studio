@@ -36,3 +36,18 @@
     margin-bottom: 50px;
     text-align: center;
 }
+/*-------What We Do section-------*/
+#whatWeDo{
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+
+#whatWeDo h1{
+    margin-bottom: 30px;
+}
+.design-words, 
+.development-words, 
+.product-words {
+    display: none;
+}
