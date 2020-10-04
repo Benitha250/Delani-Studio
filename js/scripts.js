@@ -1,3 +1,5 @@
+// The business logic logic
+
 $(document).ready(function(){
     $(".design").click(function(){
         $(".design").toggle(1000);
@@ -68,6 +70,9 @@ $(document).ready(function(){
         $(".card8-words").fadeOut(100).stop();
     });
 });
+
+// User interface logic
+
 $(document).ready(function(){
  
     $("#submit").click(function(){
