@@ -68,3 +68,11 @@ $(document).ready(function(){
         $(".card8-words").fadeOut(100).stop();
     });
 });
+$(document).ready(function(){
+ 
+    $("#submit").click(function(){
+        var name= $("input#name").val();
+        alert(name+ ", we have received your message. Thank you for reaching out to us.");
+    });
+    
+});
