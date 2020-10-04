@@ -19,7 +19,7 @@ This is a short project that will implement everything I have learnt from Bootst
 * JQuerry
 
 ## Github Pages link
-You can view the live application by following this link
+You can view the live application by following this link https://benitha250.github.io/Delani-Studio/
 
 ## Contact information
 * buwase120@daviscollege.com
